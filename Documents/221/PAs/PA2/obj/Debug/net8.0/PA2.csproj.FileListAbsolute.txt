@@ -1,0 +1,15 @@
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.AssemblyInfoInputs.cache
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.AssemblyInfo.cs
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.csproj.CoreCompileInputs.cache
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.sourcelink.json
+/Users/christianstaggs/Documents/221/PAs/PA2/bin/Debug/net8.0/PA2
+/Users/christianstaggs/Documents/221/PAs/PA2/bin/Debug/net8.0/PA2.deps.json
+/Users/christianstaggs/Documents/221/PAs/PA2/bin/Debug/net8.0/PA2.runtimeconfig.json
+/Users/christianstaggs/Documents/221/PAs/PA2/bin/Debug/net8.0/PA2.dll
+/Users/christianstaggs/Documents/221/PAs/PA2/bin/Debug/net8.0/PA2.pdb
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.dll
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/refint/PA2.dll
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.pdb
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/PA2.genruntimeconfig.cache
+/Users/christianstaggs/Documents/221/PAs/PA2/obj/Debug/net8.0/ref/PA2.dll
