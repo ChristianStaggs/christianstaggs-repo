@@ -1,0 +1,15 @@
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.AssemblyInfoInputs.cache
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.AssemblyInfo.cs
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.csproj.CoreCompileInputs.cache
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.sourcelink.json
+/Users/christianstaggs/Documents/221/inclass/10-21/bin/Debug/net8.0/10-21
+/Users/christianstaggs/Documents/221/inclass/10-21/bin/Debug/net8.0/10-21.deps.json
+/Users/christianstaggs/Documents/221/inclass/10-21/bin/Debug/net8.0/10-21.runtimeconfig.json
+/Users/christianstaggs/Documents/221/inclass/10-21/bin/Debug/net8.0/10-21.dll
+/Users/christianstaggs/Documents/221/inclass/10-21/bin/Debug/net8.0/10-21.pdb
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.dll
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/refint/10-21.dll
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.pdb
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/10-21.genruntimeconfig.cache
+/Users/christianstaggs/Documents/221/inclass/10-21/obj/Debug/net8.0/ref/10-21.dll

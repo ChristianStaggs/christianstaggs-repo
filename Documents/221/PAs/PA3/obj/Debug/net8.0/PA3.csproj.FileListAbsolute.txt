@@ -1,0 +1,15 @@
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.AssemblyInfoInputs.cache
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.AssemblyInfo.cs
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.csproj.CoreCompileInputs.cache
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.sourcelink.json
+/Users/christianstaggs/Documents/221/PAs/PA3/bin/Debug/net8.0/PA3
+/Users/christianstaggs/Documents/221/PAs/PA3/bin/Debug/net8.0/PA3.deps.json
+/Users/christianstaggs/Documents/221/PAs/PA3/bin/Debug/net8.0/PA3.runtimeconfig.json
+/Users/christianstaggs/Documents/221/PAs/PA3/bin/Debug/net8.0/PA3.dll
+/Users/christianstaggs/Documents/221/PAs/PA3/bin/Debug/net8.0/PA3.pdb
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.dll
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/refint/PA3.dll
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.pdb
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/PA3.genruntimeconfig.cache
+/Users/christianstaggs/Documents/221/PAs/PA3/obj/Debug/net8.0/ref/PA3.dll
