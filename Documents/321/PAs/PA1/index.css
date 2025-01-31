@@ -1,0 +1,11 @@
+.centeredItems {
+    text-align: center;
+
+}
+table, th, td {
+    border: 1px solid;
+  }
+
+.fullWidthTable {
+    width: 100%;
+  }
